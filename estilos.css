@@ -117,7 +117,7 @@ nav a:active {
 nav a:before {
     font-family: 'FontAwesome';
     content: "🏡";
-    /*Ícone de casa */
+    /* Ícone de casa */
 }
 
 nav a[href='multimedia.html']:before {
