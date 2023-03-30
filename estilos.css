@@ -150,6 +150,11 @@ nav a[href='html5-css.html']:before {
     /* Ícone de mapa */
 }
 
+nav a[href='lab3/indexNovo.html']:before {
+    font-family: 'FontAwesome';
+    content: "🆕";
+    /* Ícone de mapa */
+}
 img {
     border: 2px solid black;
 }
